@@ -1,0 +1,16 @@
+.bo{
+    width: 500px;
+    margin-left: 400px;
+    display:flex;
+    
+
+}
+.con1{
+    width: 190px;
+    margin-right: 10px;
+    height: 250px; 
+}
+.con2{
+    width: 300px;
+    height: 250px; 
+}
